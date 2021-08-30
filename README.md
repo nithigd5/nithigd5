@@ -1,5 +1,5 @@
 - 👋 Hi, I’m NITHI GD @nithigd5
-- 👀 I’m interested in React 
+- 👀 I’m interested in Full Stack Development 
 - 🌱 I’m currently learning React Js
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...

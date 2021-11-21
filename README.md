@@ -1,5 +1,3 @@
 - 👋 Hi, I’m NITHI GD @nithigd5
-- 👀 I’m interested in Full Stack Development 
-- 🌱 I’m currently learning React Js
-- 💞️ I’m looking to collaborate on 
+ - I am Currently Student @ Narasu's Sarathy Institute Of Technology.
 - 📫 How to reach me: Email - g.d.nithi5@gmail.com
